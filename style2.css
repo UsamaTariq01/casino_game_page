@@ -1,0 +1,844 @@
+
+
+.nav-anchor{
+
+color: #ffffff;
+font-family: 'Clash Display', sans-serif;
+font-size: 18px;
+font-weight: 500;
+font-style: normal;
+letter-spacing: normal;
+
+text-align: left;
+/* Text style for "Home" */
+font-style: normal;
+border-radius: 5%;
+}
+
+.nav-anchor:hover{
+background-color: #252A3D;
+}
+
+.content-alignment{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.bannertext{
+    color: #ffffff;
+    font-family: 'Clash Display - Semibold',sans-serif;
+    font-size: 67px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 75px;
+    text-align: center;
+    /* Text style for "T, he best" */
+    font-style: normal;
+    letter-spacing: 3px;
+    line-height: normal;
+    
+
+}
+
+.bannertext2{
+
+
+color: #562cff;
+font-family: 'Clash Display', sans-serif;
+font-size: 23px;
+font-weight: 400;
+font-style: normal;
+letter-spacing: normal;
+line-height: 41.67px;
+text-align: center;
+/* Text style for "Power your" */
+font-style: normal;
+letter-spacing: 1.03px;
+line-height: normal;
+
+}
+
+
+
+.steak1{
+    
+border-radius: 15px;
+background-image: linear-gradient(-255deg, #63b3c9 0%, #4656bc 100%);
+}
+.steak2{
+    border-radius: 15px;
+    background-image: linear-gradient(to left, #bd4949 0%, #c9c163 100%);
+}
+.steak3{
+    border-radius: 15px;
+    background-image: linear-gradient(to right, #ffb245 0%, #61afc9 100%);
+}
+.steak4{
+    border-radius: 15px;
+    background-image: linear-gradient(to right, #62c982 0%, #161d37 100%);
+}
+.steak5{
+    border-radius: 15px;
+    background-image: linear-gradient(to left, #2c3553 0%, #717a9b 100%);
+}
+
+.cube{
+    
+  top: 0;
+  position: absolute;
+  margin-left: -60px;
+  margin-top: -40px;
+  z-index: 4;
+}
+
+.illustration{
+    position: absolute;
+    margin-left: -185px;
+    margin-top: -100px;
+    z-index: 2;
+}
+.casino{
+    position: absolute;
+    margin-left: -180px;
+    margin-top: 10px;
+}
+.chip{
+    position: absolute;
+    top:68px;
+    left:48px;
+    z-index: 1;
+    
+}
+.chip2{
+    position: absolute;
+    top:35px;
+    left:180px;
+    z-index: 1;
+    
+}
+.chipsmall{
+    position: absolute;
+    top:5px;
+    left:10px;
+    z-index: 1;
+    
+}
+.adesanya{
+    position: absolute;
+    z-index: 0;
+}
+.robort{
+    position: absolute;
+    margin-left: -40px;
+}
+.steak{
+    position: absolute;
+    right: 30%;
+    top: 8%;
+
+    
+}
+
+.coin{
+top: 0;
+  position: absolute;
+  margin-left: 250px;
+  margin-top: -30px;
+  z-index: 4;
+}
+
+
+
+
+
+
+
+
+.layer3{
+    position: absolute;
+    right: 18%;
+    top: 8%;
+
+    
+}
+.receivefree{
+    position: absolute;
+    top: 30%;
+    right: 12%;
+    
+    width: 250px;
+height: 97px;
+border-radius: 13px;
+background-color: rgba(15,18,29,0.3);
+display: flex;
+align-items: center;
+
+    
+}
+.receivefreeArrow{
+    position: absolute;
+    top: 30%;
+    right: 3%;
+    display: flex;
+align-items: center;
+    width: 40px;
+height: 97px;
+border-radius: 13px;
+background-color: rgba(15,18,29,0.3);
+cursor: pointer;
+
+    
+}
+.receivefree-p{
+    
+color: #ffffff;
+font-family: 'Clash Display - Semibold',sans-serif;
+font-size: 22px;
+font-weight: 400;
+font-style: normal;
+letter-spacing: normal;
+line-height: 33.33px;
+text-align: left;
+/* Text style for "R, eceive" */
+font-style: normal;
+letter-spacing: 1.13px;
+line-height: normal;
+opacity: 1;
+
+    
+}
+
+.rewardButton{
+    position: absolute;
+    bottom: 10%;
+    right: 5%;
+    width: 300px;
+    height: 56px;
+    border-radius: 28px;
+    background-color: #0f121d;
+    cursor: pointer;
+    z-index: 3;
+}
+
+.rewardP{
+    width: 235px;
+height: 18px;
+color: #ffffff;
+font-family: 'Clash Display - Semibold',sans-serif;
+font-size: 21px;
+font-weight: 400;
+font-style: normal;
+letter-spacing: normal;
+line-height: 33.33px;
+text-align: left;
+/* Text style for "C, laim yo" */
+font-style: normal;
+letter-spacing: 0.94px;
+line-height: normal;
+cursor: pointer;
+}
+.inner{
+    position: relative;
+    top: 0;
+    overflow: hidden;
+    height: 300px;
+}
+.info{
+    position: absolute;
+    top: 3%;
+    right: 2%;
+}
+
+
+
+
+
+
+
+
+/* CARD3 */
+
+
+.bullet2{
+top: 0;
+  position: absolute;
+  margin-left: -35px;
+  margin-top: 25px;
+  z-index: 4;
+}
+.bullet1{
+
+  position: absolute;
+  bottom: -20px;
+  right: 20px;
+    
+}
+
+.csgoslika{
+
+  position: absolute;
+margin-left: -60px;
+}
+
+.nade{
+
+  position: absolute;
+top:60px;
+right:40px
+
+}
+
+
+.receivefree2{
+    position: absolute;
+    top: 45%;
+    right: 15%;
+    z-index: 3;
+    width: 280px;
+height: 97px;
+border-radius: 13px;
+background-color: rgba(15,18,29,0.3);
+display: flex;
+align-items: center;
+
+    
+}
+.receivefreeArrow2{
+    position: absolute;
+    top: 45%;
+    right: 3%;
+    display: flex;
+align-items: center;
+    width: 40px;
+height: 97px;
+border-radius: 13px;
+background-color: rgba(15,18,29,0.3);
+cursor: pointer;
+
+    
+}
+
+.rewardButton2{
+    position: absolute;
+    bottom: 3%;
+    left: 10%;
+    width: 300px;
+    height: 56px;
+    border-radius: 28px;
+    background-color: #0f121d;
+    cursor: pointer;
+    z-index: 3;
+}
+
+.hellcase{
+    position: absolute;
+    right: 8%;
+    top: 3%;
+
+    
+}
+
+/* card4 */
+.gamdom{
+    position: absolute;
+    right: 8%;
+    top: 3%;
+    
+}
+.cards{
+    position: absolute;
+    margin-left: -160px;
+    top: 55px;    
+}
+.dimond{
+    position: absolute;
+    right: -20px;
+    top:60px;
+}
+.console{
+    position: absolute;
+    right: 20px;
+    bottom:-50px;
+    z-index: 2;
+}
+
+
+.coin2{
+    position: absolute;
+    right: -20px;
+    top:100px;
+    
+}
+.girl{
+    position: absolute;
+    left: -180px;
+    top:10px;
+    z-index: 1;
+    
+}
+.pattern{
+    position: absolute;
+    z-index: 0;
+    
+}
+
+.csgoroll{
+    position: absolute;
+    right: 8%;
+    top: 3%;
+    z-index: 1;
+    
+}
+
+
+/* button */
+
+.buttonsection{
+    width: 279px;
+height: 81px;
+border-radius: 41px;
+background-color: #562cff;
+
+color: #ffffff;
+font-family: 'Clash Display - Semibold',sans-serif;
+font-size: 21px;
+font-weight: 400;
+font-style: normal;
+letter-spacing: normal;
+line-height: 33.33px;
+text-align: left;
+/* Text style for "G, rab you" */
+font-style: normal;
+letter-spacing: 0.94px;
+line-height: normal;
+cursor: pointer;
+
+}
+
+
+/* promosection */
+
+.promosection{
+    width: 100%;
+height: 343px;
+border-radius: 15px;
+background-image: linear-gradient(to right, #4d009b 0%, #562cff 100%);
+position: relative;
+}
+
+.leftside{
+    position: absolute;
+    right: -50px;
+    top: -125px;
+    bottom: 0;
+    z-index: 2;
+}
+.rightside{
+    position: absolute;
+    top: -38px;
+    left: -35px;
+    
+    z-index: 1;
+    
+    
+}
+
+.promohead{
+    position: absolute;
+    right: 20px;
+    top: 20px;
+color: #ffffff;
+font-family: 'Clash Display - Semibold',sans-serif;
+font-size: 60px;
+font-weight: 400;
+font-style: normal;
+letter-spacing: normal;
+line-height: 75px;
+text-align: right;
+/* Text style for "U, se prom" */
+font-style: normal;
+letter-spacing: 3px;
+line-height: normal;
+}
+.promotext1{
+    position: absolute;
+    right: 20px;
+    top:165px;
+    color: #ffffff;
+font-family: 'Clash Display',sans-serif;
+font-size: 18px;
+font-weight: 400;
+font-style: normal;
+letter-spacing: normal;
+line-height: 41.67px;
+text-align: center;
+/* Text style for "We only ha" */
+font-style: normal;
+letter-spacing: 1.03px;
+line-height: normal;
+}
+.promotext2{
+    position: absolute;
+    right: 20px;
+    top:195px;
+    color: #ffffff;
+font-family: 'Clash Display',sans-serif;
+font-size: 18px;
+font-weight: 400;
+font-style: normal;
+letter-spacing: normal;
+line-height: 41.67px;
+text-align: center;
+/* Text style for "We only ha" */
+font-style: normal;
+letter-spacing: 1.03px;
+line-height: normal;
+}
+.promotextbottom1{
+    position: absolute;
+    right: 250px;
+    top:265px;
+    color: #ffffff;
+    font-family: 'Clash Display - Semibold',sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 75px;
+    text-align: right;
+    /* Text style for "T, otal Re" */
+    font-style: normal;
+    letter-spacing: 0.75px;
+    line-height: normal;
+}
+.promoNumberbottom1{
+    position: absolute;
+    right: 250px;
+    top:285px;
+    color: #ffffff;
+font-family: 'Clash Display - Semibold',sans-serif;
+font-size: 38px;
+font-weight: 400;
+font-style: normal;
+letter-spacing: normal;
+line-height: 75px;
+text-align: right;
+/* Text style for "+16300" */
+font-style: normal;
+letter-spacing: 1.69px;
+line-height: normal;
+}
+.promotextbottom2{
+    position: absolute;
+    right: 60px;
+    top:265px;
+    color: #ffffff;
+    font-family: 'Clash Display - Semibold',sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 75px;
+    text-align: right;
+    /* Text style for "T, otal Re" */
+    font-style: normal;
+    letter-spacing: 0.75px;
+    line-height: normal;
+}
+.promoNumberbottom2{
+    position: absolute;
+    right: 60px;
+    top:285px;
+    color: #ffffff;
+font-family: 'Clash Display - Semibold',sans-serif;
+font-size: 38px;
+font-weight: 400;
+font-style: normal;
+letter-spacing: normal;
+line-height: 75px;
+text-align: right;
+/* Text style for "+16300" */
+font-style: normal;
+letter-spacing: 1.69px;
+line-height: normal;
+}
+
+
+/* bars section */
+.bars{
+    border-radius: 15px;
+background-color: #252a3d;
+}
+
+.barText1{
+    color: #ffffff;
+font-family: 'Clash Display',sans-serif;
+font-size: 20px;
+font-weight: 500;
+font-style: normal;
+letter-spacing: normal;
+line-height: 41.67px;
+text-align: left;
+/* Text style for "G, amdom" */
+font-style: normal;
+letter-spacing: 1.03px;
+line-height: normal;
+
+}
+.barText2{
+    /* Style for "gamdom.com" */
+width: 143px;
+height: 20px;
+color: #9e9e9e;
+font-family: 'Clash Display',sans-serif;
+font-size: 20px;
+font-weight: 400;
+font-style: normal;
+letter-spacing: normal;
+line-height: 41.67px;
+text-align: left;
+/* Text style for "g, amdom.c" */
+font-style: normal;
+letter-spacing: 1.03px;
+line-height: normal;
+}
+
+.barDiv3{
+    
+height: 50px;
+    border-radius: 12px;
+background-color: #0f121d;
+color: #ffffff;
+font-family: 'Clash Display',sans-serif;
+font-size: 21px;
+font-weight: 400;
+font-style: normal;
+letter-spacing: normal;
+line-height: 41.67px;
+text-align: center;
+/* Text style for "F, ree Bon" */
+font-style: normal;
+letter-spacing: 0.94px;
+line-height: normal;
+}
+
+.barDiv4{
+    
+height: 50px;
+    border-radius: 12px;
+background-color: #0f121d;
+color: #ffffff;
+font-family: 'Clash Display',sans-serif;
+font-size: 21px;
+font-weight: 400;
+font-style: normal;
+letter-spacing: normal;
+line-height: 41.67px;
+text-align: center;
+/* Text style for "F, ree Bon" */
+font-style: normal;
+letter-spacing: 0.94px;
+line-height: normal;
+}
+.barDiv5{
+    height: 50px;
+    border-radius: 25px;
+    background-color: #562cff;
+    color: #ffffff;
+font-family: 'Clash Display - Semibold',sans-serif;
+font-size: 18px;
+font-weight: 400;
+font-style: normal;
+letter-spacing: normal;
+line-height: 33.33px;
+text-align: left;
+/* Text style for "C, laim yo" */
+font-style: normal;
+letter-spacing: 0.94px;
+line-height: normal;
+cursor: pointer;
+}
+
+
+
+.faqsText{
+    height: 70px;
+    border-radius: 15px;
+    background-color: #252a3d;
+    color: #ffffff;
+font-family: 'Clash Display - Semibold',sans-serif;
+font-size: 18px;
+font-weight: 400;
+font-style: normal;
+letter-spacing: normal;
+line-height: 33.33px;
+text-align: left;
+/* Text style for "C, laim yo" */
+font-style: normal;
+letter-spacing: 0.94px;
+line-height: normal;
+cursor: pointer;
+
+}
+
+/* footer */
+
+.footerCR1{
+    color: #9e9e9e;
+    font-family: 'Clash Display',sans-serif;
+    font-size: 14px;
+    font-weight: 100;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 22.33px;
+    text-align: left;
+    /* Text style for "C, laim yo" */
+    font-style: normal;
+    letter-spacing: 0.94px;
+    line-height: normal;
+    cursor: pointer; 
+}
+
+
+#icard1:hover #icube {
+  transform: rotate(45deg);
+  transition: transform ease-in-out 0.5s;
+}
+#icard1:hover #illustration {
+  transform: scale(1.2);
+  transition: transform ease-in-out 0.5s;
+}
+#icard1:hover #iadesanya {
+  transform: scale(1.1);
+  transition: transform ease-in-out 0.5s;
+}
+
+#icard1:hover #ichip {
+  transform: rotate(20deg);
+  transition: transform ease-in-out 0.5s;
+}
+
+#icard1:not(:hover) .re {
+  transform: none;
+  transition: transform ease 1s;
+}
+
+
+
+#icard2:hover #icoin {
+  
+  transform: translateY(-20px);
+  transition: transform ease-in-out 0.5s;
+}
+#icard2:hover #icasino {
+  transform: rotate(45deg);
+  transition: transform ease-in-out 0.5s;
+}
+#icard2:hover #irobort {
+  transform: scale(1.1);
+  transition: transform ease-in-out 0.5s;
+}
+
+#icard2:hover #ichip2 {
+    
+  transform: scale(-1,1);
+  transition: transform ease-in-out 0.5s;
+}
+
+#icard2:hover #ichipsmall {
+  transform: scale(-1,1);
+  transition: transform ease-in-out 0.5s;
+}
+
+#icard2:not(:hover) .re2 {
+  transform: none;
+  transition: transform ease 1s;
+}
+
+
+
+#icard3:hover #ibuttlet2 {
+  
+  transform: translateX(-20px);
+  transition: transform ease-in-out 0.5s;
+}
+#icard3:hover #icsgoslika {
+  transform: scale(1.1);
+  transition: transform ease-in-out 0.5s;
+}
+#icard3:hover #inade {
+  transform: rotate(30deg);
+  transition: transform ease-in-out 0.5s;
+}
+
+#icard3:hover #ibullet1 {
+    
+  transform: translateX(20px);
+  transition: transform ease-in-out 0.5s;
+}
+
+
+#icard3:not(:hover) .re3 {
+  transform: none;
+  transition: transform ease 1s;
+}
+
+
+#icard4:hover #idimond {
+  
+  transform: scale(-1,1);
+  transition: transform ease-in-out 0.5s;
+}
+#icard4:hover #icard3 {
+  transform: rotate(5deg);
+  transition: transform ease-in-out 0.5s;
+}
+#icard4:hover #iconsole {
+  transform: rotate(30deg);
+  transition: transform ease-in-out 0.5s;
+}
+
+
+#icard4:not(:hover) .re4 {
+  transform: none;
+  transition: transform ease 1s;
+}
+
+
+#icard5:hover #icoin2 {
+  
+  transform: scale(-1,1);
+  transition: transform ease-in-out 0.5s;
+}
+#icard5:hover #igirl {
+  transform: scale(1.1);
+  transition: transform ease-in-out 0.5s;
+}
+
+
+
+
+#icard5:not(:hover) .re5 {
+  transform: none;
+  transition: transform ease 1s;
+}
+
+
+@media (max-width: 992px) {
+  body
+  {
+    background:red;
+  }
+  .opaque-navbar {
+    background-color: black;
+    height: 60px;
+    transition: background-color .5s ease 0s;
+}
+
+}
+
+
+
